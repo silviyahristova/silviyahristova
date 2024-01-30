@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning ** Web Application Development and Cyber Security** 
+- 🌱 I’m currently learning ** Web Application Development Level 5**
+
+- 🌱 I have a Level 3 NFCE certificate in Cyber Security.
 
 - 🔥 I'm interested in Full-stack development, design, and security.
 
